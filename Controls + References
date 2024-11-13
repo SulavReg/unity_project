@@ -1,0 +1,21 @@
+Controls
+Left and Right = A and D
+Crouch = S
+Jump = Space
+
+References
+https://www.youtube.com/watch?v=XtQMytORBmM -> This video taught me a lot of the basics in unity, as well as some specifics like and end game screen (text and button).
+https://www.youtube.com/watch?v=Sg_w8hIbp4Y&t=396s -> Taught the basics of animation.
+https://www.youtube.com/watch?v=Yx6BZDJWt8A&t=86s -> This video taught me how to change collisons based on a frame in animation (used for crouch in my game).
+https://www.youtube.com/watch?v=FXqwunFQuao -> How to make camera follow player in game.
+
+The first two videos were genuinly so helpful, just thought I should note their importance explicitely.
+
+Resources and Assets
+Knight Sprite from Itch.io (cant find the link because I got it in last game jam)
+https://assetstore.unity.com/packages/2d/gui/icons/halloween-pumpkins-icon-pack-154890 -> Pumpkin
+https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360 -> Ground (was removed from game but is still imported)
+https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838 -> Actual Ground
+https://assetstore.unity.com/packages/audio/music/free-8-spooky-tracks-music-pack-275541 -> Music
+https://assetstore.unity.com/packages/2d/environments/2d-halloween-decoration-102536 -> Candy Projectiles
+
